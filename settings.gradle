@@ -1,0 +1,2 @@
+rootProject.name='CS458_Project'
+include ':app'

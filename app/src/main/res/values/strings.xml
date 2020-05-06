@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS458_Project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="empty"> </string>
+    <string name="sub">Submit!</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Latitude">Latitude</string>
+</resources>
